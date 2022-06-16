@@ -1,2 +1,1 @@
-# simple_shell
-Making a simple-shell
+simple shell programming in C #/bin/bash
