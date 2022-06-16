@@ -13,8 +13,8 @@
 #include <limits.h>
 
 #define BUFSIZE 1024
-#define TOKEN_BUFFERSIZE 128
-#define TOKEN_DELIMIT " \t\r\n\a"
+#define TOK_BUFSIZE 128
+#define TOK_DELIM " \t\r\n\a"
 
 /*Array of pointers to str called the "environment" */
 extern char **environ;
